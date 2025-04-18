@@ -1,4 +1,3 @@
-# Sistem_Pakar_Forward-Backward_Chaining
 1. Sistem Pakar: Ini biasanya digunakan dalam bidang medis, pertanian, teknik, dan bidang lain yang membutuhkan analisis ahli. Sistem pakar meniru cara berpikir seorang ahli untuk menyelesaikan masalah tertentu dengan menggabungkan pengetahuan dan pengalaman seorang pakar ke dalam bentuk aturan logika.
 
 Komponen utama sistem pakar adalah:
